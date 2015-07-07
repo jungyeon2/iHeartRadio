@@ -3,6 +3,7 @@ __author__ = 'jungyeonyoon'
 import luigi
 import os
 import random
+import urllib
 
 # from os import listdir
 class Input_Generator(luigi.Task):

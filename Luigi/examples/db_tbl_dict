@@ -1,0 +1,3 @@
+{"user": {"user$id":"id","user$name":"name","lang":"lang","geo":"geo","user$followers_count":"followers_count","user$friends_count":"friends_count"}}
+{"twitter": {"user_id":"id","user_name":"name","lang":"lang","geo":"geo","user_followers_count":"followers_count","user_friends_count":"friends_count"}}
+{"retweet": {"user_id":"id","user_name":"name","lang":"lang","geo":"geo","user_followers_count":"followers_count","user_friends_count":"friends_count"}}
